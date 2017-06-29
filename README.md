@@ -1,5 +1,5 @@
 # Spoti-Nerd
-A simple widget for Mac. It displays the currently playing on Spotify song and artist name, as well as the artwork on the desktop.
+A simple customizable widget for Mac. It displays the currently playing on Spotify song and artist name, as well as the artwork on the desktop.
 
 ![alt text](https://github.com/bajosoto/Spoti-Nerd/blob/master/Res/screenshot.png "Desktop")
 
