@@ -1,5 +1,5 @@
 # Spoti-Nerd
-A simple customizable widget for Mac. It displays the currently playing on Spotify song and artist name, as well as the artwork on the desktop.
+A simple customizable widget for Mac. It displays the song currently playing on spotify, artist name, and the artwork on the desktop.
 
 ![alt text](https://github.com/bajosoto/Spoti-Nerd/blob/master/Res/screenshot.png "Desktop")
 
@@ -46,5 +46,5 @@ osascript ~/myScripts/Spoti-Nerd/spotify-artist.scpt
 This widget was inspired by the work of [Dr. Drang](http://leancrew.com/all-this/). However, since Spotify no longer supports the dictionary property "artwork", none of the current implementations I found online work anymore. This is an improved version that retrieves the image remotely, and also uses less resources by not updating it until the song changes.
 
 ## Why Nerd Tool
-Why would anyone still use Nerd Tool (or even [GeekTool](https://www.tynsoe.org/v2/geektool/)) when we have nicer HTML-based things available like [Übersicht](http://tracesof.net/uebersicht/)? I really don't know. Maybe you already have your own logs (or geeklets for GeekTool) set up and just want to stay with a single tool? I might port this into a nicer widget for Übersicht sometime. :)
+Why would anyone still use Nerd Tool (or even [GeekTool](https://www.tynsoe.org/v2/geektool/)) when we have nicer HTML-based things available like [Übersicht](http://tracesof.net/uebersicht/)? I really don't know. I might port this into a nicer widget for Übersicht sometime. :)
 
