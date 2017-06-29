@@ -42,3 +42,6 @@ osascript ~/myScripts/Spoti-Nerd/spotify-artist.scpt
 
 - You're all set! You can customize the size, font, location, color, etc. of the text and album artwork to whatever you like! :wink:
 
+## Credits
+This widget was inspired by the work of [Dr. Drang](Dr. Drang). However, since Spotify no longer supports the dictionary property "artwork", none of the current implementations I found online work anymore. This is an improved version that retrieves the image remotely, and also uses less resources by not updating it until the song changes.
+
