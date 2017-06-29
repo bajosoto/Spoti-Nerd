@@ -29,7 +29,7 @@ osascript ~/myScripts/Spoti-Nerd/spotify-song.scpt
 ```
 
 ```
-osascript /Users/Sergio/myScripts/Spoti-Nerd/Artwork/spotify-artwork.scpt
+osascript ~/myScripts/Spoti-Nerd/Artwork/spotify-artwork.scpt
 ```
 
 ```
