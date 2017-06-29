@@ -6,7 +6,7 @@ A simple widget for Mac. It displays the currently playing on Spotify song and a
 ## Instructions
 Configuring this tool requires following a simple sequence of steps. The good thing is that you get to customize the look and feel according to your needs!
 
-- Install [Nerd Tool](http://mutablecode.com/apps/nerdtool.html), a simple yet powerful tool allowing to customize and display things on top of the desktop.
+- Install [Nerd Tool](http://mutablecode.com/apps/nerdtool.html), a simple yet powerful tool allowing to customize and display things on top of your desktop.
 
 - Download or clone this repository in your home folder. You can type the following commands in your Terminal:
 ```
