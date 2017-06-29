@@ -46,5 +46,5 @@ osascript ~/myScripts/Spoti-Nerd/spotify-artist.scpt
 This widget was inspired by the work of [Dr. Drang](http://leancrew.com/all-this/). However, since Spotify no longer supports the dictionary property "artwork", none of the current implementations I found online work anymore. This is an improved version that retrieves the image remotely, and also uses less resources by not updating it until the song changes.
 
 ## Why Nerd Tool
-Why would anyone still use Nerd Tool (or even [GeekTool](https://www.tynsoe.org/v2/geektool/)) when we have nicer HTML-based things available like [Übersicht](http://tracesof.net/uebersicht/)? I really don't know. I might port this into a nicer widget for Übersicht sometime. :)
+Why would anyone still use Nerd Tool (or even [GeekTool](https://www.tynsoe.org/v2/geektool/)) when we have nicer HTML-based things available like [Übersicht](http://tracesof.net/uebersicht/) besides the lower CPU footprint? I really don't know. I might port this into a nicer widget for Übersicht sometime. :)
 
